@@ -1,4 +1,4 @@
-# Roblox-Simple-GameWhitelist-
+# Roblox-Simple-GameWhitelist
 
 1. ServerScriptService: Place the mainscript.lua file in your Roblox game's ServerScriptService.
 
