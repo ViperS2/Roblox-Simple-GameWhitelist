@@ -11,4 +11,5 @@
 5. Start Playing: With the whitelist system in place, only players whose Roblox accounts have been whitelisted on your website will be able to join your game.
 
 Feel free to customize the system and the whitelist.php script to suit your specific needs. 
-[Discord Server] (https://discord.gg/rippers)
+[Discord](https://discord.gg/rippers)
+
